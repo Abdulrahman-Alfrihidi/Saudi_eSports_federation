@@ -1,2 +1,2 @@
-# Saudi_eSports_federation
+# Saudi_eSports_federation_Database
 Built with my a group a mimic database for the Saudi eSports Federation. Including the ER, some fake data insertions and queries. 
